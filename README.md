@@ -8,3 +8,7 @@
 
 ## Tasks
 
+- [Bonus](hw0)
+- [Intro](hw1)
+- [Parser Combinator](hw2)
+- [hi - programming language](hw3)
